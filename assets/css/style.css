@@ -73,6 +73,10 @@ input, label {
     display: none;
 }
 
+form label{
+    display: block;
+}
+
 
 nav a{
     font-family: var(--font-family-3);
